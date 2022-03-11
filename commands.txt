@@ -1,6 +1,0 @@
-django-admin - помощь
-python manage.py runserver - запуск сервера
-python manage.py startapp ... - створити додаток 
-python manager.py makemigration створити міграцію
-python manager.py sqlmigrate news 0001 - який запрос буде при створенні таблиці
-python manager.py migrate - запуск міграції
